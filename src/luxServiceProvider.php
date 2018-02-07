@@ -13,7 +13,7 @@ class luxServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $bp=base_path('/packages/michau85/lux/src/routes.php');
+        $bp=base_path('/vendor/michau85/lux/src/routes.php');
         $this->loadRoutesFrom($bp);
     }
 
