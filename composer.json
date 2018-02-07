@@ -1,0 +1,12 @@
+{
+    "name": "michau85/lux",
+    "description": "aa",
+    "authors": [
+        {
+            "name": "majk",
+            "email": "majk19@tlen.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
